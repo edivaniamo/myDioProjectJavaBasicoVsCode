@@ -1,2 +1,2 @@
 # dioTrilhaJavaBasico
-Repositório para exemplos do curso Java Básico pela Dio
+Repositório para exemplos e desafios do curso Java Básico pela Dio
