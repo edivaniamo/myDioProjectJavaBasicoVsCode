@@ -1,2 +1,2 @@
-# Trilha Java Básico IDE - Vs Code
+# Trilha Java Básico (IDE VsCode)
 Repositório para exemplos e desafios do curso Java Básico pela Dio
